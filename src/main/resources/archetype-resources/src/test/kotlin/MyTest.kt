@@ -1,16 +1,16 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package};
+package ${package}
 
-import org.junit.Test;
+import org.junit.Test
 
-import static org.junit.Assert.*;
+import org.junit.Assert.*
 
-public class MyTest {
+class MyTest {
     @Test
-    public void exampleTest() {
+    fun exampleTest() {
         // Perform tests here to verify functionality
-        assertTrue(true);
+        assertTrue(true)
     }
 }

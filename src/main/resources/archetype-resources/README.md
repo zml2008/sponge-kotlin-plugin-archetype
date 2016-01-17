@@ -3,8 +3,8 @@ ${artifactId} is a plugin for Sponge that has not been documented by its author 
 File locations
 --------------
 - `src/site/markdown`: Markdown files that will be included in the generated site
-- `src/main/java`: Main plugin source files
-- `src/test/java`: Test source files
+- `src/main/kotlin`: Main plugin source files
+- `src/test/kotlin`: Test source files
 
 Building
 --------

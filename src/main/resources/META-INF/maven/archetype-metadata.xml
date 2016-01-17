@@ -10,21 +10,21 @@
   </requiredProperties>
   <fileSets>
     <fileSet filtered="true" packaged="true" encoding="UTF-8">
-      <directory>src/main/java</directory>
+      <directory>src/main/kotlin</directory>
       <includes>
-        <include>**/*.java</include>
+        <include>**/*.kt</include>
       </includes>
     </fileSet>
     <fileSet filtered="true" packaged="true" encoding="UTF-8">
-      <directory>src/main/java-templates</directory>
+      <directory>src/main/kotlin-templates</directory>
       <includes>
-        <include>**/*.java</include>
+        <include>**/*.kt</include>
       </includes>
     </fileSet>
     <fileSet filtered="true" packaged="true" encoding="UTF-8">
-      <directory>src/test/java</directory>
+      <directory>src/test/kotlin</directory>
       <includes>
-        <include>**/*.java</include>
+        <include>**/*.kt</include>
       </includes>
     </fileSet>
     <fileSet filtered="true" encoding="UTF-8">
